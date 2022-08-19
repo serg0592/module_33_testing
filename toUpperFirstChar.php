@@ -1,6 +1,6 @@
 <?php
     class UpChar {
-        function toUpperFirstChar( $string) {
+        function toUpperFirstChar($string) {
             return ucfirst($string);
         }
     }
